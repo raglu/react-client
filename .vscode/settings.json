@@ -1,0 +1,7 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/0496bc33-20ce-4956-903a-7cae60d6fe42/resourceGroups/appsvc_rg_linux_centralus/providers/Microsoft.Web/sites/react-fitnessmeetup",
+    "appService.deploySubpath": ""
+}
