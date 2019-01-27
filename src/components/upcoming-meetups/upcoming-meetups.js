@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 
+import './upcoming-meetups.css';
+
 class UpcomingMeetups extends Component {
     render() {
         return (

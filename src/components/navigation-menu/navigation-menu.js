@@ -9,7 +9,9 @@ class NavigationMenu extends Component {
   render() {
     return (
       <div className="Navigation-menu">
-        <font color="#9d9d9d"> FitnessMeetup</font>
+
+          <font color="#9d9d9d"> FitnessMeetup</font>
+
         <nav>
           <ul>
             <li className="first">
