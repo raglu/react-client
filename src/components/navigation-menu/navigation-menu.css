@@ -2,5 +2,8 @@
     padding-top: 30px;
     background-color: #222;
     min-height: 100vh;
-    font-size: 30px;
+    font-size: 30px;   
+}
+nav{
+    text-align: left;
 }

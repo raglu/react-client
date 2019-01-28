@@ -11,7 +11,7 @@ import NavigationMenu from './components/navigation-menu/navigation-menu';
 import Login from './components/login/login';
 import Homepage from './components/homepage/homepage';
 import NewMeetup from './components/new-meetup/new-meetup';
-import Map from './components/map/map';
+import GMap from './components/map/map';
 import UpcomingMeetups from './components/upcoming-meetups/upcoming-meetups';
 
 class App extends Component {
@@ -27,7 +27,7 @@ class App extends Component {
               <Route exact path='/' component={Homepage} />
               <Route exact path='/login' component={Login} />
               <Route exact path='/new-meetup' component={NewMeetup} />
-              <Route exact path='/map' component={Map} />
+              <Route exact path='/map' component={GMap} />
             </div>
             <div class="third-column">
               <UpcomingMeetups />
