@@ -12,11 +12,11 @@ class UpcomingMeetups extends Component {
                         <select name="sportSelect">
                             <option>any</option>
                         </select>
-                        <button type="submit">Apply filters</button>
+                        <button>Apply filters</button>
                     </form >
                     
-                    <button > Previous</button >
-                    <button > Next</button >
+                    <button>Previous</button >
+                    <button>Next</button >
 
                 </div >
             </div >
